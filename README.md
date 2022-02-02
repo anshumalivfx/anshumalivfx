@@ -6,7 +6,9 @@
 
 # About Me 💬
 
-<img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif"/>
+<img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif" style="padding: 10px"/>
+
+An Machine Learning Enthusiast || CS Undergrad Sophomore
 
 ### My Skills 💬
 
