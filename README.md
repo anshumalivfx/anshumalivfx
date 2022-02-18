@@ -24,9 +24,9 @@ An Machine Learning Enthusiast || CS Undergrad Sophomore
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshumalivfx)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=tokyonight")](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=tokyonight")<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=dracula")](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=dracula")<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
 
 ## GitHub Analytics
 
