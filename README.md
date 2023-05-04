@@ -8,17 +8,13 @@
 
 <img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif" style="padding: 10px"/>
 
-An Machine Learning Enthusiast || CS Undergrad Sophomore
+Mobile App Developer || CS Undergrad Sophomore
 
-### My Skills 💬
-
-- ✨ Full Stack Development <br/>
-- ✨ Android App Development <br/>
+### Top Skills 💬
 - ✨ iOS App Development <br/>
-- ✨ Computer Vision <br/>
-- ✨ Natural Language Processing <br/>
+- ✨ Android App Development <br/>
+- ✨ Full Stack Development <br/>
 - ✨ REST API <br/>
-- ✨ Natural Language Processing <br/>
 
 # Trophies
 
