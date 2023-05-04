@@ -24,7 +24,7 @@ An Machine Learning Enthusiast || CS Undergrad Sophomore
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshumalivfx)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=dracula")](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&langs_count=100&theme=dracula")<br/>
+[![Anshumali Karna's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,makefile&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
 
