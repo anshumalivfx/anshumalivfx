@@ -1,6 +1,8 @@
 <samp>
 
-# Hola 👋
+<div id="about-me" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Konnichiwa!+This+is+Anshumali+Karna!" alt="Typing SVG" /></a>
+</div>
 
 ![AltText](Assets/anime-boy.gif)
 
