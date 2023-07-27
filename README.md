@@ -1,6 +1,6 @@
 <samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+This+is+Anshumali;Karna)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+This+is+Anshumali+Karna;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 ![AltText](Assets/anime-boy.gif)
 
