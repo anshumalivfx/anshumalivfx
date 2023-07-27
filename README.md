@@ -21,7 +21,8 @@ Mobile App Developer || CS Undergrad Sophomore
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshumalivfx)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,jupyter%20notebook,makefile&theme=dracula)](https://github.com/anshumalivfx/)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,jupyter%20notebook,makefile&theme=dracula)](https://github.com/anshumalivfx/)--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,makefile&layout=donut-vertical&theme=dracula)](https://github.com/anshumalivfx/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
 
