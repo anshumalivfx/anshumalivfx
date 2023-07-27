@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+This+is+Anshumali+Karna;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anshumalivfx&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
-<p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=anshumalivfx&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
-</p>
+
 
 # About Me 💬
 
