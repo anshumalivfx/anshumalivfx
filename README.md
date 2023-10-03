@@ -9,13 +9,15 @@
 
 <img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif" style="padding: 10px"/>
 
-Mobile App Developer || CS Undergrad Sophomore
+# Mobile App Developer 📱 | CS Senior 🎓 | Machine Learning Enthusiast 🤖
 
-### Top Skills 💬
-- ✨ iOS App Development <br/>
-- ✨ Android App Development <br/>
-- ✨ Full Stack Development <br/>
-- ✨ REST API <br/>
+## Top Skills 💪
+- iOS App Wizardry ✨
+- Android App Crafting ✨
+- Full Stack Sorcery ✨
+- Machine Learning Passion 🚀
+- REST API Maestro 🌐
+
 
 # Trophies
 
