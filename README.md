@@ -9,7 +9,7 @@
 
 <img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif" style="padding: 10px"/>
 
-# Mobile App Developer 📱 | CS Senior 🎓 | Machine Learning Enthusiast 🤖
+## Software Engineer 🤖
 
 ## Top Skills 💪
 - iOS App Wizardry ✨
