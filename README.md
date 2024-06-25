@@ -1,6 +1,6 @@
 <samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+This+is+Anshumali+Karna;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+I'm+Anshumali+Karna;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anshumalivfx&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 
