@@ -40,7 +40,7 @@
 <a href="https://www.linkedin.com/in/anshumalikarna/">  
 <img src="Assets/ln.gif" style="height: 50px">
 </a>
-<a href="https://www.instagram.com/anshumalii">
+<a href="https://www.instagram.com/anshumalikarna">
 <img src="Assets/insta-instagram.gif" style="height: 50px">
 </a> 
 <a href="https://www.twitter.com/anshumaIi">
