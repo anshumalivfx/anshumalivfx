@@ -12,11 +12,14 @@
 ## Software Engineer 🤖
 
 ## Top Skills 💪
+- Full Stack Sorcery ✨
 - iOS App Wizardry ✨
 - Android App Crafting ✨
-- Full Stack Sorcery ✨
-- Machine Learning Passion 🚀
 - REST API Maestro 🌐
+
+## Currently Learning 📖
+- Machine Learning & Deep Learning
+- Web3
 
 
 # Trophies
