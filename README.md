@@ -31,6 +31,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ## GitHub Analytics
 
 ![GitHub metrics](https://metrics.lecoq.io/anshumalivfx)
