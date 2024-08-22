@@ -30,7 +30,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anshumalivfx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,jupyter%20notebook,makefile&theme=dracula)](https://github.com/anshumalivfx/)--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,makefile&layout=donut-vertical&theme=dracula)](https://github.com/anshumalivfx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=html,css,makefile&layout=donut-vertical&theme=dracula)](https://github.com/anshumalivfx/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
 
