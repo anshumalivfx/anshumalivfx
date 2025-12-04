@@ -49,28 +49,25 @@ A full AI-powered automation platform for content creation and digital marketing
 - Multi-user workspaces and role-based access  
 - Scalable backend modules and automation pipeline  
 
-🔗 *(Add link or screenshots when available)*  
+🔗 [Live Link](https://app.humanoid.marketing/)
 
 ---
 
 ### **📜 Shakespeare Text Generator (Transformers)**
 A fine-tuned Transformer model capable of generating Shakespeare-style text.  
 **Tech:** HuggingFace, PyTorch  
-🔗 GitHub Repo
 
 ---
 
 ### **🌍 Groundwater Contamination Predictor**
 ML project predicting arsenic contamination using logistic regression.  
 **Tech:** Python, Pandas, scikit-learn  
-🔗 GitHub Repo
 
 ---
 
 ### **📘 Question Paper Generator (C++ + ML)**
 A generator that uses clustering + classification to produce MCQs automatically.  
 **Tech:** C++, Python ML  
-🔗 GitHub Repo
 
 ---
 
