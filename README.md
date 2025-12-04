@@ -1,57 +1,88 @@
-<samp>
+# 👋 Hi, I'm Anshumali Karna
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konnichiwa+I'm+Anshumali+Karna;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+I'm a Software Engineer with 1.4 years of experience building **scalable backend systems, full-stack applications, and AI-driven automation tools**.  
+I specialize in **Python, Django REST Framework, Next.js, PostgreSQL**, and **Generative AI/LLM integrations**.
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anshumalivfx&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+I enjoy working on systems that combine **clean architecture, performance engineering, and intelligent automation**.
 
+---
 
-# About Me 💬
+## 🚀 What I Do
 
-<img height="200" width="200" alt="GIF" align="right" src="Assets/hyouka-anime.gif" style="padding: 10px"/>
+### 🟦 Backend Engineering
+- Scalable REST API design (Django REST Framework)
+- Multi-tenant architecture, RBAC, authentication systems  
+- Query optimization, caching, indexing, performance tuning  
+- Distributed systems fundamentals  
 
-## Software Engineer 🤖
+### 🟩 Full-Stack Development
+- Next.js + React dashboards  
+- TailwindCSS + Shadcn UI  
+- Production-grade frontend integration with backend systems  
 
-## Top Skills 💪
-- Full Stack Sorcery ✨
-- iOS App Wizardry ✨
-- Android App Crafting ✨
-- REST API Maestro 🌐
+### 🤖 AI & Automation
+- LLM integrations (OpenAI, Transformers)
+- Text generation pipelines  
+- AI-driven content workflows  
+- NLP + ML model training / fine-tuning  
 
-## Currently Learning 📖
-- Machine Learning & Deep Learning
-- Web3
+---
 
+## 🛠 Tech Stack
 
-# Trophies
+**Languages:** Python, TypeScript, C++, Java, Swift  
+**Backend:** Django REST Framework, Node.js, Prisma  
+**Frontend:** React, Next.js, TailwindCSS, Shadcn  
+**AI/ML:** Transformers, HuggingFace, OpenAI APIs, PyTorch, TensorFlow  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Git, Docker, Redis, CI/CD  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anshumalivfx)](https://github.com/ryo-ma/github-profile-trophy)<br>
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anshumalivfx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🔥 Featured Projects
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=javascript,html,css,jupyter%20notebook,makefile&theme=dracula)](https://github.com/anshumalivfx/)--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumalivfx&hide=html,css,makefile&layout=donut-vertical&theme=dracula)](https://github.com/anshumalivfx/github-readme-stats)
+### **🧠 Humanoid – AI Marketing Automation Platform**
+*(Core Developer — Built at Biz Klinics LLC)*  
+A full AI-powered automation platform for content creation and digital marketing.  
+**Built with:** Django REST, Next.js, PostgreSQL, OpenAI APIs  
+- AI-generated posts, captions, and workflows  
+- Multi-user workspaces and role-based access  
+- Scalable backend modules and automation pipeline  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumalivfx&show_icons=true&count_private=true&theme=dracula)
+🔗 *(Add link or screenshots when available)*  
 
+---
 
+### **📜 Shakespeare Text Generator (Transformers)**
+A fine-tuned Transformer model capable of generating Shakespeare-style text.  
+**Tech:** HuggingFace, PyTorch  
+🔗 GitHub Repo
 
-## GitHub Analytics
+---
 
-![GitHub metrics](https://metrics.lecoq.io/anshumalivfx)
+### **🌍 Groundwater Contamination Predictor**
+ML project predicting arsenic contamination using logistic regression.  
+**Tech:** Python, Pandas, scikit-learn  
+🔗 GitHub Repo
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anshumalivfx)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshumalivfx)
+---
 
-# MY SOCIAL HANDLES
+### **📘 Question Paper Generator (C++ + ML)**
+A generator that uses clustering + classification to produce MCQs automatically.  
+**Tech:** C++, Python ML  
+🔗 GitHub Repo
 
-<a href="https://www.linkedin.com/in/anshumalikarna/">  
-<img src="Assets/ln.gif" style="height: 50px">
-</a>
-<a href="https://www.instagram.com/anshumalikarna">
-<img src="Assets/insta-instagram.gif" style="height: 50px">
-</a> 
-<a href="https://www.twitter.com/anshumaIi">
-<img src="Assets/twitter-bird.gif" style="height: 50px">
-<a>
-</samp>
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/anshumalikarna  
+- **Email:** anshumali.karna99@gmail.com  
+- **GitHub:** https://github.com/anshumalivfx  
+
+---
+
+### ⭐ Always learning. Always building.  
+I’m currently open to **Backend, Full-Stack, and AI/LLM Engineering** roles — especially in AI, automation, SaaS, and product-focused companies.
+
+If you're building something meaningful, let's connect!
+
