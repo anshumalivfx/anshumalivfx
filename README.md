@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anshumali Karna
+# 👋 Hi, I'm Anshumali (Ansh) Karna
 
 I'm a Software Engineer with 1.4 years of experience building **scalable backend systems, full-stack applications, and AI-driven automation tools**.  
 I specialize in **Python, Django REST Framework, Next.js, PostgreSQL**, and **Generative AI/LLM integrations**.
