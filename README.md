@@ -37,22 +37,6 @@ I enjoy working on systems that combine **clean architecture, performance engine
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Tools:** Git, Docker, Redis, CI/CD  
 
----
-
-## 🔥 Featured Projects
-
-### **🧠 Humanoid – AI Marketing Automation Platform**
-*(Core Developer — Built at Biz Klinics LLC)*  
-A full AI-powered automation platform for content creation and digital marketing.  
-**Built with:** Django REST, Next.js, PostgreSQL, OpenAI APIs  
-- AI-generated posts, captions, and workflows  
-- Multi-user workspaces and role-based access  
-- Scalable backend modules and automation pipeline  
-
-🔗 [Live Link](https://app.humanoid.marketing/)
-
----
-
 ### **📜 Shakespeare Text Generator (Transformers)**
 A fine-tuned Transformer model capable of generating Shakespeare-style text.  
 **Tech:** HuggingFace, PyTorch  
